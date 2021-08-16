@@ -2,12 +2,11 @@
     "name": "markhilton/monolog-mysql",
     "description": "Laravel 8 MySQL driver for Monolog",
     "keywords": ["laravel", "laravel8", "log", "monolog", "mysql"],
-    "homepage": "https://github.com/markhilton/monolog-mysql",
+    "homepage": "https://github.com/FL0od13/monolog-mysql",
     "type": "library",
     "license": "MIT",
     "authors": [{
-        "name": "Mark Hilton",
-        "email": "nerd305@gmail.com"
+        "name": "FL0od13"
     }],
     "require": {
         "php": "^7.0"
