@@ -1,5 +1,5 @@
 {
-    "name": "FL0od13/monolog-mysql",
+    "name": "fl0od13/monolog-mysql",
     "description": "Laravel 8 MySQL driver for Monolog",
     "keywords": ["laravel", "laravel8", "log", "monolog", "mysql"],
     "homepage": "https://github.com/FL0od13/monolog-mysql",
